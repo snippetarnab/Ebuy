@@ -1,0 +1,13 @@
+.mgback {
+   background-color: #62bcf8;
+}
+
+.card:hover{
+    -webkit-box-shadow: 2px 2px 2px 2px #DAD1FF;
+    box-shadow: 2px 2px 2px 2px #DAD1FF;
+}
+
+
+
+
+  

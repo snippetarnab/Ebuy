@@ -1,0 +1,8 @@
+.product{
+    width: 100px;
+}
+
+.bgimg {
+    background: url(../img/bg.png);
+    background-size: cover;
+}
